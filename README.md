@@ -52,3 +52,17 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## Contenful
+
+[Astro and Contenful](https://docs.astro.build/en/guides/cms/contentful/)
+
+.env
+```
+CONTENTFUL_SPACE_ID=YOUR_SPACE_ID
+CONTENTFUL_DELIVERY_TOKEN=YOUR_DELIVERY_TOKEN
+CONTENTFUL_PREVIEW_TOKEN=YOUR_PREVIEW_TOKEN
+```
+
+
+
